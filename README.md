@@ -1,4 +1,4 @@
-## ***Hello! I'm Robert Yin, a junior engineer.***
+## ***Hello! I'm Robert Yin, a junior mechanical engineer.***
 
 ***I'm a beginner in Github.***
 
