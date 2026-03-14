@@ -1,10 +1,12 @@
-## ***Hello! I'm Robert Yin, a junior mechanical engineer.***
+## ***Hello! I'm EclipseaHime, or Robert, anyway.***
 
-***I'm a beginner in Github.***
+***I'm currently working as an embedded software engineer.***
+
+***I enjoy researching motion planning aand control of legged robots, applying the traditional control theories, novel black-box methods or combining both of these to my projects.***
 
 ***I would like to include some of my projects done in my respository.***
 
-***If you have question about it, please make polite comments about your opinion, which I would read carefully.***
+***If you have question about it, please comment or issue them, which I would read carefully.***
 
 ***If you enjoy my work, you may star it, which I will appreciate a lot!***
 
