@@ -1,6 +1,6 @@
 ## ***Hello! I'm EclipseaHime, or Robert, anyway.***
 
-***I'm currently working as an embedded software engineer.***
+***Currently I am interning as an application engineer in [seeed studio](https://www.seeed.cc/).***
 
 ***I enjoy researching motion planning aand control of legged robots, applying the traditional control theories, novel black-box methods or combining both of these to my projects.***
 
