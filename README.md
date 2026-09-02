@@ -1,8 +1,8 @@
 ## ***Hello! I'm EclipseaHime, or Robert, anyway.***
 
-***Currently I am interning as an application engineer in [seeed studio](https://www.seeed.cc/).***
+***Currently I‘m studying for my master degree in Nanyang Technological University and working in Automan Lab in Robotic Research Center, focusing on VLA post-training based on offline-RL.***
 
-***I enjoy researching motion planning aand control of legged robots, applying the traditional control theories, novel black-box methods or combining both of these to my projects.***
+***I enjoy researching motion planning and control of legged robots, applying the traditional control theories, novel black-box methods or combining both of these to my projects.***
 
 ***I would like to include some of my projects done in my respository.***
 
